@@ -3,6 +3,7 @@
 # **MediLlama: A Healthcare Chatbot**
 **MediLlama** is a fine-tuned version of the LLaMA-3 language model designed to assist with healthcare-related queries. It leverages **LoRA (Low-Rank Adaptation)** and **4-bit quantization** to provide accurate, efficient, and memory-optimized medical advice while ensuring real-time response capabilities.
 
+---
 
 ## **Features**
 - **Fine-Tuned Medical Model**: Tailored to healthcare queries for accurate and coherent responses.
